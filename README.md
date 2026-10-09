@@ -1,5 +1,4 @@
 ![alt XOOPS CMS](https://xoops.org/images/logo.png)
-
 # ModuleInstaller for [XOOPS CMS 2.7.1+](https://xoops.org)
 
 [![XOOPS CMS Module](https://img.shields.io/badge/XOOPS%20CMS-Module-blue.svg)](https://xoops.org)
